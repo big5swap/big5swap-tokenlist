@@ -1,0 +1,19 @@
+{
+  "name": "big5swap-tokenlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/big5swap/big5swap-tokenlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/big5swap/big5swap-tokenlist/issues"
+  },
+  "homepage": "https://github.com/big5swap/big5swap-tokenlist#readme"
+}

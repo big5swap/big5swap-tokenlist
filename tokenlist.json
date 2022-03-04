@@ -1,0 +1,49 @@
+{
+  "name": "Big5swap Token List",
+  "timestamp": "2020-08-11T22:55:13.889Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 6
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "keywords": [
+    "Big5swap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped BNB",
+      "address": "0x50B29a42c9e4d0f940292c386207f492458eE358",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0x1d8071187FA273E7bddf7581EAc981338D2187f4.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xd30E39BF3b24408e094516a827691DC80207275F",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0xd30E39BF3b24408e094516a827691DC80207275F.png"
+    },
+    {
+      "name": "OMC",
+      "address": "0x777DB630e6D03E973774aF607c80a51FDaF23801",
+      "symbol": "OMC",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0x777DB630e6D03E973774aF607c80a51FDaF23801.png"
+    },
+    {
+      "name": "COIN",
+      "address": "0xC663940594B2BBA73E4130BEb9F0839Bf6466040",
+      "symbol": "COIN",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0xC663940594B2BBA73E4130BEb9F0839Bf6466040.png"
+    }
+  ]
+}
