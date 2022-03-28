@@ -3,9 +3,16 @@
   "timestamp": "2022-03-27T22:55:13.889Z",
   "notices": [
     {
-      "title": "Big5swap Notice Test",
-      "content": "Big5swap Notice Test Big5swap Notice Test Big5swap Notice Test Big5swap Notice Test",
-      "timestamp": "2022-03-27T22:55:13.889Z"
+      "en":{
+          "title": "Big5swap Notice Test",
+          "content": "Big5swap Notice Test Big5swap Notice Test Big5swap Notice Test Big5swap Notice Test",
+          "timestamp": "2022-03-27T22:55:13.889Z"
+        },
+      "ch":{
+        "title": "Big5swap 公告测试 ",
+        "content": "Big5swap 公告测试 Big5swap 公告测试 Big5swap 公告测试 Big5swap 公告测试",
+        "timestamp": "2022-03-27T22:55:13.889Z"
+      }
     }
   ]
 }
