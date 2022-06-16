@@ -14,36 +14,28 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped BNB",
-      "address": "0x1d8071187FA273E7bddf7581EAc981338D2187f4",
-      "symbol": "WBNB",
+      "name": "Wrapped COM",
+      "address": "0xC389bbb94dd0BB005CAdD83C11441C72328ADAF0",
+      "symbol": "WCOM",
       "decimals": 18,
-      "chainId": 97,
+      "chainId": 1431,
       "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0x1d8071187FA273E7bddf7581EAc981338D2187f4.png"
     },
     {
       "name": "USDT",
-      "address": "0xd30E39BF3b24408e094516a827691DC80207275F",
+      "address": "0x668F6C7265c1982a804Dc49852771CaBB929A65E",
       "symbol": "USDT",
       "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0xd30E39BF3b24408e094516a827691DC80207275F.png"
+      "chainId": 1431,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/COMTEST/0x668F6C7265c1982a804Dc49852771CaBB929A65E.png"
     },
     {
-      "name": "OMC",
-      "address": "0x777DB630e6D03E973774aF607c80a51FDaF23801",
-      "symbol": "OMC",
+      "name": "MED",
+      "address": "0x9225390318Aa579c3D10c6071cF0c2f4146Ce210",
+      "symbol": "MED",
       "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0x777DB630e6D03E973774aF607c80a51FDaF23801.png"
-    },
-    {
-      "name": "COIN",
-      "address": "0xC663940594B2BBA73E4130BEb9F0839Bf6466040",
-      "symbol": "COIN",
-      "decimals": 18,
-      "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/BSCTEST/0xC663940594B2BBA73E4130BEb9F0839Bf6466040.png"
+      "chainId": 1431,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/COMTEST/0x9225390318Aa579c3D10c6071cF0c2f4146Ce210.png"
     }
   ]
 }
