@@ -36,6 +36,14 @@
       "decimals": 18,
       "chainId": 1431,
       "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/COMTEST/0x00211639321317ABE76dF392c394BA5B61486e78.png"
+    },
+    {
+      "name": "CABO",
+      "address": "0x668F6C7265c1982a804Dc49852771CaBB929A65E",
+      "symbol": "CABO",
+      "decimals": 18,
+      "chainId": 1431,
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/COMTEST/0x668F6C7265c1982a804Dc49852771CaBB929A65E.png"
     }
   ]
 }
