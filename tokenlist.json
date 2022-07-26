@@ -31,11 +31,11 @@
     },
     {
       "name": "MED",
-      "address": "0xfb4950E56C77221fB40a5f436B890cAC005EF5F1",
+      "address": "0x92185ea8CE806407d7e81ed2B865437B01c6a751",
       "symbol": "MED",
       "decimals": 18,
       "chainId": 1431,
-      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/COMTEST/0xB3a85Cea3df6eAA4f4262124D8fF89778665Fb22.png"
+      "logoURI": "https://raw.githubusercontent.com/big5swap/big5swap-tokenlist/main/assets/COMTEST/0x92185ea8CE806407d7e81ed2B865437B01c6a751.png"
     },
     {
       "name": "CABO",
